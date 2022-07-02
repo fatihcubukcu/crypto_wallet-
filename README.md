@@ -22,3 +22,13 @@ https://user-images.githubusercontent.com/53950518/177017844-7c27a2a7-131d-4b26-
 
 
 ![Screenshot_1656801063](https://user-images.githubusercontent.com/53950518/177017869-2d5867f8-79d2-4e14-87e2-b5cb0b3560c6.png)
+
+
+
+Tasarım olarak yararlanılan yer.;
+
+https://medium.muz.li/designing-a-crypto-wallet-app-concept-72478d216ec6
+
+Matrix 4 ile ilgili daha detaylı bilgiye ulaşmak için; 
+
+https://medium.com/flutter-community/advanced-flutter-matrix4-and-perspective-transformations-a79404a0d828
