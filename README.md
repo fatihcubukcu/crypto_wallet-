@@ -18,3 +18,7 @@ Transform hareketi için gerekli olan bu hareketi Matrix işleminin ve Matrix 4 
 
 https://user-images.githubusercontent.com/53950518/177017844-7c27a2a7-131d-4b26-ba4e-c047ed84d307.mp4
 
+
+
+
+![Screenshot_1656801063](https://user-images.githubusercontent.com/53950518/177017869-2d5867f8-79d2-4e14-87e2-b5cb0b3560c6.png)
