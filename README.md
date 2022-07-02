@@ -6,12 +6,15 @@ Crypto wallet app.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Bu uygulama ile beraber bir Flutter projesinde matematiksel matrix işlemi kullanarak, Matrix 4 widgetinden yaralandık. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Transform hareketi için gerekli olan bu hareketi Matrix işleminin ve Matrix 4 gücünden aldık. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Crypto_Wallet-" 
+
+
+
+
+
+
+https://user-images.githubusercontent.com/53950518/177017844-7c27a2a7-131d-4b26-ba4e-c047ed84d307.mp4
+
